@@ -1,0 +1,30 @@
+body {
+    background: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    font-family: "Kanit", sans-serif;
+    margin: 20px;
+}
+
+header {
+    border-bottom: solid 3px rgb(250, 27, 27);
+    padding: 2px;
+    font-size: 35px;
+    margin: 15px;
+    font-family: "Bungee Tint", sans-serif;
+}
+
+section {
+    background: rgb(214, 208, 208);
+    padding-bottom: 80px;
+    padding-top: 70px;
+    display: flex;
+    justify-content: center; 
+}
+
+.chamada-texto {
+    margin-right: 5%;
+    font-size: 15px;
+}
+img{
+    height:200px;
+}
